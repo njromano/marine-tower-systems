@@ -1,0 +1,37 @@
+#logo {
+    height: 40px;
+}
+
+.navbar {
+    background-color: #80DEEA
+}
+
+.hero {
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#contact-hero {
+    background-image: 
+        linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),
+        url("contact-photo.jpeg");
+}
+
+#home-hero {
+    background-image: 
+        linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),
+        url("boat.jpg");
+}
+
+#products-hero {
+    background-image: 
+        linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),
+        url("products-hero.jpg");
+}
+
+footer {
+    background-color: #F5F5F5;
+}
